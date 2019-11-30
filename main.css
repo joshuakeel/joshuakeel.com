@@ -1,0 +1,35 @@
+@tailwind base;
+
+header a {
+    @apply no-underline;
+}
+
+article p {
+    @apply font-serif;
+    @apply mb-8;
+    @apply font-light;
+    @apply tracking-medium-tight;
+    @apply leading-easy;
+}
+
+article p a {
+    @apply border-b-2;
+    @apply border-vivid-blue-600;
+}
+
+article p a:hover {
+    @apply text-vivid-blue-600;
+}
+
+footer a {
+    @apply border-b;
+}
+
+footer a:hover {
+    @apply text-vivid-blue-600;
+    @apply border-vivid-blue-600;
+}
+
+@tailwind components;
+
+@tailwind utilities;
