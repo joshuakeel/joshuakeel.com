@@ -10,7 +10,8 @@
     "tailwindcss": "^1.1.4"
   },
   "scripts": {
-    "start": "concurrently \"eleventy --serve\" \"tailwind build main.css -o _site/main-compiled.css\""
+    "start": "concurrently \"eleventy --serve\" \"tailwind build main.css -o _site/main-compiled.css\"",
+    "build": "concurrently \"eleventy\" \"tailwind build main.css -o _site/main-compiled.css\""
   },
   "keywords": [],
   "author": "Joshua Keel",
