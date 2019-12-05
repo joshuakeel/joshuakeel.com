@@ -1,5 +1,6 @@
 ---
 title: Support the work you love!
+date: 2019-11-21
 ---
 This is all the content I love! I hope you like it.
 

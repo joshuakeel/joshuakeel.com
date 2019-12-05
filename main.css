@@ -17,17 +17,16 @@ article p a {
     @apply border-vivid-blue-600;
 }
 
-article p a:hover {
-    @apply text-vivid-blue-600;
-}
-
 footer a {
     @apply border-b;
 }
 
 footer a:hover {
-    @apply text-vivid-blue-600;
     @apply border-vivid-blue-600;
+}
+
+a:hover {
+    @apply text-vivid-blue-600;
 }
 
 @tailwind components;

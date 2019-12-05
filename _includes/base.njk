@@ -4,19 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/main-compiled.css">
   </head>
-  <body class="max-w-3xl md:mx-auto px-6 text-gray-900 text-xl">
-    <header class="flex mt-10 items-baseline text-gray-700 no-underline">
-      <h1 class="text-xl md:text-3xl"><a href="/">Joshua Keel</a></h1>
-        <nav class="text-xl ml-auto hidden md:block">
-          <a href="/writings" class="mr-8 hover:text-vivid-blue-600">Writing</a>
-          <a href="/about" class="mr-8 hover:text-vivid-blue-600">About</a>
-          <a href="/now" class="hover:text-vivid-blue-600">Now</a>
+  <body class="max-w-3xl px-6 text-xl text-gray-900 md:mx-auto">
+    <header class="flex flex-col items-baseline mt-10 text-gray-700 no-underline md:flex-row">
+      <h1 class="text-xl font-medium md:text-3xl md:font-normal"><a class="hover:text-gray-700" href="/">Joshua Keel</a></h1>
+        <nav class="text-lg md:text-xl md:ml-auto">
+          <a href="/writings" class="mr-4 md:mr-8">Writing</a>
+          <a href="/about" class="mr-4 md:mr-8">About</a>
+          <a href="/now">Now</a>
         </nav>
     </header>
     <div class="max-w-2xl mx-auto">
       {{ content | safe }}
 
-      <footer class="text-base text-gray-700 mt-16 md:mt-32 mb-10 flex">
+      <footer class="flex mt-16 mb-10 text-base text-gray-700">
         <p class="mx-auto">
           This site is hand-crafted with <a href="https://www.11ty.io/">Eleventy</a>, <a href="https://tailwindcss.com/">Tailwind CSS</a>, and love. Global distribution courtesy of <a href="https://www.netlify.com/">Netlify</a>.
         </p>
