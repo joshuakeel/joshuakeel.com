@@ -27,12 +27,13 @@ layout: base.njk
 
 <p class="pb-2 mt-10 font-medium text-gray-700 border-b border-vivid-blue-600">My Latest Work</p>
 <ul class="mt-6">
-{%- for post in collections.post | reverse -%}
+{%- for post in collections.mostRecentPosts -%}
     <li class="flex flex-col mt-4">
         <span class="text-base text-gray-700">{{ post.date | readableDate }}</span>
         <h3>
-            <a class="font-medium" href="{{ post.url }}">{{ post.data.title }}</a>
+            <a class="font-serif font-medium" href="{{ post.url }}">{{ post.data.title }}</a>
         </h3>
     </li>
 {%- endfor -%}
 </ul>
+<p class="mt-6"><a href="/writing">See all posts ⇢</a></p>

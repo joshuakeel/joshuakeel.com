@@ -4,9 +4,16 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        serif: [
+        'serif-title': [
           'Merriweather',
+          ...defaultTheme.fontFamily.serif
+        ],
+        serif: [
           ...defaultTheme.fontFamily.serif,
+        ],
+        sans: [
+          'Inter',
+          ...defaultTheme.fontFamily.sans
         ]
       },
       colors: {

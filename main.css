@@ -4,17 +4,24 @@ header a {
     @apply no-underline;
 }
 
-article p {
+article {
     @apply font-serif;
-    @apply mb-8;
-    @apply font-light;
-    @apply tracking-medium-tight;
     @apply leading-easy;
 }
 
-article p a {
+article p {
+    @apply mb-8;
+}
+
+article a {
     @apply border-b-2;
     @apply border-vivid-blue-600;
+}
+
+article ul {
+    @apply list-disc;
+    @apply ml-8;
+    @apply mb-8;
 }
 
 footer a {
