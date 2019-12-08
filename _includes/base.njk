@@ -8,9 +8,9 @@
     <header class="flex flex-col items-baseline mt-10 text-gray-700 no-underline md:flex-row">
       <h1 class="text-xl font-medium md:text-3xl md:font-normal"><a class="hover:text-gray-700" href="/">Joshua Keel</a></h1>
         <nav class="text-lg md:text-xl md:ml-auto">
-          <a href="/writing" class="mr-4 md:mr-8">Writing</a>
-          <a href="/about" class="mr-4 md:mr-8">About</a>
-          <a href="/now">Now</a>
+          <a href="/writing" class="mr-4 md:mr-8 {% if page.url === '/writing/' %} current-page {% endif %}">Writing</a>
+          <a href="/about" class="mr-4 md:mr-8 {% if page.url === '/about/' %} current-page {% endif %}">About</a>
+          <a href="/now" class="{% if page.url === '/now/' %} current-page {% endif %}">Now</a>
         </nav>
     </header>
     <div class="max-w-2xl mx-auto">

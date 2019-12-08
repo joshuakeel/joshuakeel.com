@@ -52,6 +52,12 @@ a:hover {
     @apply text-vivid-blue-600;
 }
 
+.current-page {
+    @apply border-vivid-blue-600;
+    @apply border-b-4;
+    @apply pb-1;
+}
+
 @tailwind components;
 
 @tailwind utilities;
