@@ -12,7 +12,6 @@ module.exports = {
           ...defaultTheme.fontFamily.serif,
         ],
         sans: [
-          'Inter',
           ...defaultTheme.fontFamily.sans
         ]
       },

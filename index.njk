@@ -31,7 +31,7 @@ layout: base.njk
     <li class="flex flex-col mt-4">
         <span class="text-base text-gray-700">{{ post.date | readableDate }}</span>
         <h3>
-            <a class="font-serif font-medium" href="{{ post.url }}">{{ post.data.title }}</a>
+            <a class="font-medium font-serif-title" href="{{ post.url }}">{{ post.data.title }}</a>
         </h3>
     </li>
 {%- endfor -%}
