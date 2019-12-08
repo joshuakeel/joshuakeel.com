@@ -11,4 +11,6 @@ module.exports = function(eleventyConfig) {
           .reverse()
           .slice(0, 3);
       });
+
+    eleventyConfig.addPassthroughCopy("assets");
 };

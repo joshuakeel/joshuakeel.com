@@ -1,5 +1,21 @@
 @tailwind base;
 
+@font-face {
+    font-family: 'Merriweather';
+    src: url('assets/merriweather-bold-webfont.woff2') format('woff2'),
+         url('assets/merriweather-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('assets/merriweather-regular-webfont.woff2') format('woff2'),
+         url('assets/merriweather-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 header a {
     @apply no-underline;
 }
