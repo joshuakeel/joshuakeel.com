@@ -2,14 +2,15 @@
 title: What I’m Doing Now
 permalink: now/index.html
 ---
-I&#8217;m in Raleigh, NC, focusing on:
+I&#8217;m at home, in Raleigh, NC. At present, my focus is on:
 
-  * Writing my [weekly newsletter][1].
-  * Creating as many new articles as I can here and on [Medium][2].
-  * Reading Scott H. Young&#8217;s book [_Ultralearning_][3]. I [wrote about it][4] as well.
-  * My day job as a full-stack software developer for a non-profit.
+  * Writing articles for my [weekly newsletter][1], that also get posted here, and sometimes on Medium.
+  * Spending time with family and friends.
+  * Watching movies from time to time at Alamo Drafthouse, where I have a season pass.
+  * Trying to make it through my to-read stack. Currently I'm working my way through Nir Eyal's _Indistractible_.
+  * My work as a full-stack software developer at an energy sector non-profit.
 
-Last updated on 9/21/2019.
+Last updated on December 8, 2019.
 
  [1]: https://joshuakeel.com/subscribe/
  [2]: https://medium.com/@joshuakeel
