@@ -9,11 +9,11 @@ layout: base.njk
     My latest creative endeavor is a weekly newsletter. In it I share my thoughts on technology, chaos theory, creativity, and joy.
 </p>
 
-<div class="max-w-md mx-auto mt-10">
+<div class="max-w-lg mx-auto mt-10">
     <!-- Begin Mailchimp Signup Form -->
-    <form action="https://joshuakeel.us16.list-manage.com/subscribe/post?u=4a6f5a90ad20717ddb43bbf46&amp;id=1714af77ee" method="post" novalidate>
+    <form class="block md:flex" action="https://joshuakeel.us16.list-manage.com/subscribe/post?u=4a6f5a90ad20717ddb43bbf46&amp;id=1714af77ee" method="post" novalidate>
         
-        <input class="w-full p-3 mb-4 border rounded shadow-md border-vivid-blue-600 md:w-64 md:mr-3" type="email" name="EMAIL" placeholder="Your email address">
+        <input class="w-full p-3 mb-4 border rounded shadow-md md:mb-0 border-vivid-blue-600 md:w-80 md:mr-3" type="email" name="EMAIL" placeholder="Your email address">
 
         <button type="submit" class="w-full p-3 text-white border rounded shadow-md border-vivid-blue-600 bg-vivid-blue-600 md:w-32">Join me</button>
         
@@ -25,15 +25,15 @@ layout: base.njk
     <!--End Mailchimp Signup Form -->
 </div>
 
-<p class="pb-2 mt-10 font-medium text-gray-700 border-b border-vivid-blue-600">My Latest Work</p>
+<p class="pb-2 mt-16 font-medium text-gray-700 border-b border-vivid-blue-600">My Latest Work</p>
 <ul class="mt-6">
 {%- for post in collections.mostRecentPosts -%}
     <li class="flex flex-col mt-8">
         <span class="text-base text-gray-700">{{ post.date | readableDate }}</span>
         <h3>
-            <a class="font-medium font-serif-title" href="{{ post.url }}">{{ post.data.title }}</a>
+            <a class="font-medium border-b-2 font-serif-title border-vivid-blue-600" href="{{ post.url }}">{{ post.data.title }}</a>
         </h3>
     </li>
 {%- endfor -%}
 </ul>
-<p class="mt-6"><a href="/writing">See all posts ⇢</a></p>
+<p class="mt-8"><a class="border-none" href="/writing">See everything ⇢</a></p>

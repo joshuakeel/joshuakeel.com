@@ -16,8 +16,13 @@
     font-style: normal;
 }
 
-header a {
-    @apply no-underline;
+a {
+    @apply border-b-2;
+    @apply border-vivid-blue-600;
+}
+
+a:hover {
+    @apply text-vivid-blue-600;
 }
 
 article {
@@ -29,11 +34,6 @@ article p {
     @apply mb-8;
 }
 
-article a {
-    @apply border-b-2;
-    @apply border-vivid-blue-600;
-}
-
 article ul {
     @apply list-disc;
     @apply ml-8;
@@ -42,14 +42,11 @@ article ul {
 
 footer a {
     @apply border-b;
+    @apply border-gray-400;
 }
 
 footer a:hover {
     @apply border-vivid-blue-600;
-}
-
-a:hover {
-    @apply text-vivid-blue-600;
 }
 
 .current-page {

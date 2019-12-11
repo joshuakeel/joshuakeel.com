@@ -28,6 +28,9 @@ module.exports = {
       maxWidth: {
         '2xl': '42.5rem'
       },
+      width: {
+        '80': '20rem'
+      },
       letterSpacing: {
         'medium-tight': '-0.004em'
       }
