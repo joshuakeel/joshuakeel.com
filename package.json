@@ -6,14 +6,18 @@
   "dependencies": {},
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
+    "@fullhuman/postcss-purgecss": "^1.3.0",
     "concurrently": "^5.0.0",
     "hyperlink": "^4.4.3",
     "luxon": "^1.21.3",
+    "postcss-cli": "^6.1.3",
     "tailwindcss": "^1.1.4"
   },
   "scripts": {
-    "start": "concurrently \"eleventy --serve\" \"tailwind build main.css -o _site/main-compiled.css\"",
-    "build": "concurrently \"eleventy\" \"tailwind build main.css -o _site/main-compiled.css\""
+    "postcss": "postcss main.css -o _site/main-compiled.css --verbose",
+    "postcss:watch": "postcss main.css -o _site/main-compiled.css --watch --verbose",
+    "start": "concurrently \"eleventy --serve\" \"npm run postcss:watch\"",
+    "build": "concurrently \"eleventy\" \"NODE_ENV=production npm run postcss\""
   },
   "keywords": [],
   "author": "Joshua Keel",
