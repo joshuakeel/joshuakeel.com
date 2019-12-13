@@ -37,6 +37,30 @@ article {
     @apply leading-easy;
 }
 
+article h2 {
+    @apply text-2xl;
+    @apply font-bold;
+    @apply font-serif-title;
+    @apply mb-2;
+}
+
+article h4 {
+    @apply text-xl;
+    @apply font-bold;
+    @apply font-serif-title;
+    @apply mb-2;
+}
+
+article img {
+    @apply mb-8;
+}
+
+@screen md {
+    article h2 {
+        @apply text-3xl;
+    }
+}
+
 article p {
     @apply mb-8;
 }
@@ -45,6 +69,37 @@ article ul {
     @apply list-disc;
     @apply ml-8;
     @apply mb-8;
+}
+
+article ul li {
+    @apply mb-2;
+}
+
+figcaption {
+    @apply text-gray-700;
+    @apply text-base;
+    @apply font-sans;
+    @apply text-center;
+    @apply mb-6;
+}
+
+blockquote {
+    @apply ml-16;
+    @apply relative;
+}
+
+blockquote:before {
+    content: open-quote;
+    @apply -ml-16;
+    @apply text-2xl;
+    @apply absolute;
+    @apply leading-none;
+}
+
+@screen md {
+    blockquote:before {
+        font-size: 8rem;
+    }
 }
 
 footer a {

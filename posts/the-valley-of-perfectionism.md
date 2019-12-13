@@ -1,0 +1,21 @@
+---
+title: The Valley of Perfectionism
+date: 2018-06-09T11:21:26+00:00
+---
+In the last couple of weeks, I&#8217;ve been slowly working my way through Sam Harris&#8217; delightfully rich book _The Moral Landscape: How Science Can Determine Human Values_. His thesis goes like this: finding moral truth can be thought of as a navigation problem in a landscape of peaks and valleys. The peaks are the best possible lives we can have, and the valleys the worst. If we admit—as Sam believes we must—that morality necessarily relates to the well–being of conscious creatures, we can see that science has something to say about what constitutes that well–being. Sam argues that there can be a science of human well–being, and thus morality.
+
+In the moral landscape, there may be many equivalent peaks, or equally moral ways of arranging society. I would argue there are also multiple peaks of individual well–being. Surely there is not just one arrangement of our lives that leads to genuine eudaemonia. There are likely many ways to achieve roughly the same amount of deep fulfillment and contentment.
+
+Yet we often think life choices always admit of a clear right answer. Should I marry so and so? Can this opportunity be my dream job? Is traveling to Bermuda just now the best vacation possibility? We seem to assume that if we don&#8217;t make the right decisions, life will turn out poorly. In some cases, there are clear right answers: should I take up smoking? Of course not. That would lead to a decrease in well–being both for me and those around me. But for many important decisions, there is no obvious choice.
+
+In the face of this uncertainty, we often stress and wring our hands with worry. The subtle principle is that we should be able to figure it out. There is an answer, if we could just find it. And if we don&#8217;t, surely doom will overtake us. We live in terror of missing our way. Panicked, we cling to whatever certainty we can find.
+
+This is no way to live. In our pursuit of perfection and our belief in one true path, we have forgotten that there is not just one happiness or fulfillment. There are many. We assume our needs can only be satisified in the way we envision. If we need love, we think we can only get it if we are attached to a partner. If it&#8217;s career satisfaction we desire, the only way to find it is to discover the perfect match between our abilities and the job market. We are blinded to the many ways we can achieve a rich and extraordinary life, some of which may defy our expectations.
+
+The truth is we often don&#8217;t know what we want, or what makes us happy. For instance, I often want huge swaths of alone time so I can read and write and be incredibly productive; but when I&#8217;m alone, I often find myself demotivated, binge–prone, and slothful. What I think I want isn&#8217;t always good for me. And the opposite is also true: experiences I haven&#8217;t yet had may be delightfully engaging.
+
+When we find ourselves trapped in the valley of perfectionism, nothing can ever be good enough. We constantly second guess our choices, giving in to addictive patterns of thought, watching hawkishly for any evidence that our lives are not as pleasant as we desire. Yet we find, after all, that the problem lies within us, and not out in the world.
+
+Happily, we can break our addiction to perfection–seeking. Instead of allowing it to run rampant in our lives, we can learn to embrace uncertainty, with the knowledge that there are many paths to a rewarding life. When we look out at the landscape ahead, we see not a narrow, winding mountain path where one misstep will send us plunging to our deaths, but a wide, open world with many beautiful heights, and some treacherous wastelands as well. There is nothing to be afraid of. We must simply walk on toward the nearest peak, choosing our steps with tireless patience. Our feet will grow steadier with time, as we learn which ravines to pass by, and what mountain vistas bring us joy.
+
+May you experience that joy in abundance.

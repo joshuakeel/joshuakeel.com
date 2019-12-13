@@ -1,0 +1,17 @@
+---
+title: Living a Good Life
+date: 2016-10-22T13:27:45+00:00
+---
+How can we be more ethical people? How can we live with more authenticity, integrity, and a sense of social responsibility? How do we change and learn and grow? How can we overcome the things that hold us back from expressing our highest self? How do we achieve and maintain health and wellness? How can we have deep, satisfying relationships? What about meaningful work that sparks joy?
+
+These are the questions I ask myself every day. In small moments, in the spaces between tasks, in the grocery store line, I ponder my life and where it&#8217;s headed. Am I living in alignment with the values I say I believe in? Am I succumbing to pressure from others to be or do something I don&#8217;t actually want to? How do I break my bad habits and create ones that will serve me for decades to come?
+
+I want to answer these questions. I&#8217;ll share the things I learn in hope that you&#8217;ll find something valuable in my perspective and experience. I don&#8217;t expect everyone to have the same idea of what a good life entails. We all bring our individual personalities, desires, needs, and goals to this discussion. I think any reasonable account of what a good life looks like will involve many paths, all equally viable. For one person living well might mean scaling mountains. For another, it might mean baking cookies.
+
+That&#8217;s why I believe it&#8217;s not so much what we do, but how we do it that determines our quality of life. A life well lived isn&#8217;t about doing specific things, but about bringing greater consciousness to everything we do. So much of our lives is missed when we just go through our daily activities without thought or purpose. I strive to bring awareness to my patterns, to understand the destructive habits I hold onto, and to appreciate the things I&#8217;m doing well.
+
+Staying the same is easy and comfortable. But without realizing it, we can find our lives shrinking. Our dreams wither, or we never find the space to dream them because we&#8217;re simply fighting to keep ourselves afloat. I&#8217;ve been there. It wasn&#8217;t pretty. It was the darkest time of my life, but cleaning up the mess I had made of myself gave me strength I didn&#8217;t have before. Living better helps us become better. Acting with integrity yields many benefits that aren&#8217;t apparent at the start.
+
+In late 2012, I weighed in at a morbidly obese 330+ lbs. I say 330+ because my scale only went up to 330. I was so heavy the scale doesn&#8217;t even go that high. It was a rough place to be, and it took me years to undo the damage I had done to my body. Overcoming obesity made me the man I am today, though. I&#8217;m proud of the work I did to overcome the psychological and physical barriers that caused my weight gain in the first place, and then kept me fat for years. I&#8217;ve learned so many lessons I never would have learned had I not gone through the hell of obesity. The process of becoming who I am now changed me.
+
+I leveled up. I&#8217;m more conscious now. I know myself better. I see the patterns of my life more clearly. Taking on the challenge of becoming a more conscious human, one who sets out to live well, is totally worth it. I guarantee that you will emerge a better person, wiser and more empathetic. I&#8217;m excited about the opportunities we all have for growth, and I&#8217;m going to share everything I learn with you as I continue along my own path. I hope you&#8217;ll join me for the adventure.

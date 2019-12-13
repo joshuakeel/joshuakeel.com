@@ -1,0 +1,21 @@
+---
+title: The Freedom of No Escape
+date: 2018-07-23T11:59:24+00:00
+---
+Most of us are running away from life. We’re obsessed with what we like and what we don’t like, in a constant rejection of what is arising in consciousness now. My question is: why? We often believe we are separate from life, not integrally a part of it. Life happens to us, we say. But what if we are just another piece of the happening? What if there is no “me” in my brain, driving things? What if “me”, the “me” I believe myself to be, is no more than a collection of thoughts, feelings, and sensations?
+
+I’m not saying you don’t exist. Of course you exist. What could be more obvious? I’m saying it’s a good idea to investigate who you think you are, because all is not as it seems. We believe we’re in control, the doer of our actions. But what if we are _being done_ instead? What if life is living us, not the other way round?
+
+If we are _being lived_, if there’s no one in the control room, then is there some other scene to escape to, or is there only ever just now? Sights, sounds, colors, lights, people, rustling, feelings: all part of now. I know nothing except these things. Do you? Do you really _know_ anything, in your own direct experience, other than your presently arising sensations?
+
+What is there to know except what is obvious, what is readily apparent, what is right in front of us? We can believe in a lot of other things. We believe in gravity and trees and other people. But what can we really _know_? It seems to me that the only thing we can really be sure of is the totality of what is occurring now. Right this instant, all I know is the sensation of keys on a keyboard; the sounds emanating from the kitchen; the ordinary sights of my living room.
+
+My world appears to be utterly subjective, meaning that _this_ is the only world I know. I know nothing of anything outside this world. And I know very little about this world, as it turns out. I _believe_ many things about it, but I can’t prove them. About the only thing I can prove is that I am. I exist. Not “I think, therefore I am,” but simply “I am.”
+
+What escape is there from what is presently arising in consciousness? Where else is there to go but right here, right now? I have very often resisted what comes into consciousness, as if there were something I could do to blot it out, to keep the bad things at bay. But inescapably, and with neither malice nor goodwill, the onslaught of _now_ continues. I cannot control it. I cannot stop it. I _am_ it.
+
+When the _now_ ends, I end, for all I am is a collection of sensations of one kind or another: sights, sounds, pressures, itches, thoughts, feelings. That is me. I am a process, unfolding in precisely the way that it is, in every moment.
+
+When I realize there is no escape from this moment exactly as it is, I can let go of my desire to be elsewhere. For how could I be anywhere but now? Any idea of another place is simply that, an idea, arising instantaneously in the present. It all comes back to now. I am hemmed in on all sides. Like a deer in headlights, I freeze, wanting to run, wanting desperately to escape what is, but then I see it: there is no escape. It is what it is. I am utterly and completely without options. Life and “I”—the story of “I”—have been engaged in a great game, and I have, at last, been checkmated.
+
+What freedom there is in simply letting go. Nothing to escape; nothing to cling to; nothing to fight. Just helplessly and effortlessly now. There is freedom in the simple experience of what is here, unresisted. Let life be whatever it is. There is no other choice. There is no other way. Life has had its way with you since the moment you were conscious, as a baby at your mother’s breast. Life is victorious, and in that victory is a delicious freedom simply to let go of everything we’ve been holding on to, including all our ideas of who we are. And finally, to _live_, to simply express our humanity in every moment as it wants to express itself. Be here. Rest as now. Be free, as indeed you are.

@@ -12,7 +12,7 @@ I&#8217;m at home, in Raleigh, NC. At present, my focus is on:
 
 Last updated on December 8, 2019.
 
- [1]: https://joshuakeel.com/subscribe/
+ [1]: /subscribe/
  [2]: https://medium.com/@joshuakeel
  [3]: https://www.amazon.com/dp/006285268X/?tag=n
  [4]: https://joshuakeel.com/ultralearning-for-fun-and-profit/
