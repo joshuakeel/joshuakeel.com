@@ -27,6 +27,7 @@ module.exports = function(eleventyConfig) {
         return content;
     });
 
-    eleventyConfig.addPassthroughCopy("assets");
-    eleventyConfig.addPassthroughCopy("wp-content");
+    eleventyConfig.addPassthroughCopy('assets');
+    eleventyConfig.addPassthroughCopy('wp-content');
+    eleventyConfig.addPassthroughCopy('service-worker.js');
 };
