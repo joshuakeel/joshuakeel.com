@@ -9,7 +9,10 @@ module.exports = function(eleventyConfig) {
         html: true
     };
 
-    let markdownLib = markdownIt(markdownItOptions).use(markdownItFootnote);
+    let markdownLib = markdownIt(markdownItOptions)
+        .disable('code')
+        .use(markdownItFootnote);
+        
     eleventyConfig.setLibrary('md', markdownLib);
 
     eleventyConfig.addFilter('readableDate', date => {
@@ -39,4 +42,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.addPassthroughCopy('wp-content');
     eleventyConfig.addPassthroughCopy('service-worker.js');
+
+    return {
+        markdownTemplateEngine: 'njk'
+    };
 };

@@ -2,7 +2,7 @@
 title: Support Your Local Dream
 date: 2019-10-05T15:21:08+00:00
 ---
-<figure class="wp-block-image alignfull"><img src="https://i1.wp.com/joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash.jpg?fit=683%2C1024&ssl=1" alt="" class="wp-image-425" srcset="https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash.jpg 3344w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-200x300.jpg 200w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-768x1151.jpg 768w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-683x1024.jpg 683w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-1088x1631.jpg 1088w" sizes="(max-width: 3344px) 100vw, 3344px" /><figcaption>[Sebastián León Prado][1]</figcaption></figure> 
+<figure class="wp-block-image alignfull"><img src="https://i1.wp.com/joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash.jpg?fit=683%2C1024&ssl=1" alt="" class="wp-image-425" srcset="https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash.jpg 3344w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-200x300.jpg 200w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-768x1151.jpg 768w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-683x1024.jpg 683w, https://joshuakeel.com/wp-content/uploads/2019/10/sebastian-leon-prado-MgODFmLOaEY-unsplash-1088x1631.jpg 1088w" sizes="(max-width: 3344px) 100vw, 3344px" /><figcaption>Photo by <a href="https://unsplash.com/@elmundoderabbit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sebastián León Prado</a></figcaption></figure> 
 
 I’ve been thinking a lot about dreams—those deep desires we keep locked away from public view most of the time, but yet are so important to us. We don’t really want to take them out and look at them, because if we did, we might have to do something about them. We might have to take action.
 
@@ -34,6 +34,5 @@ From the broken remains of one dream, a new one may emerge. That’s when we all
 
 I know which one I’m choosing. If you’re ready to do the work, buckle in. It’s going to be a wild ride, but I’ll be right there with you, every step of the way.
 
- [1]: https://unsplash.com/@elmundoderabbit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
  [2]: https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_2?keywords=the+war+of+art&qid=1570280518&sr=8-2
  [3]: https://joshuakeel.bandcamp.com/

@@ -9,21 +9,7 @@ layout: base.njk
     My latest creative endeavor is a weekly newsletter. In it I share my thoughts on technology, chaos theory, creativity, and joy.
 </p>
 
-<div class="max-w-lg mx-auto mt-10">
-    <!-- Begin Mailchimp Signup Form -->
-    <form class="block md:flex" action="https://joshuakeel.us16.list-manage.com/subscribe/post?u=4a6f5a90ad20717ddb43bbf46&amp;id=1714af77ee" method="post" novalidate>
-        
-        <input class="w-full p-3 mb-4 border rounded shadow-md md:mb-0 border-vivid-blue-600 md:w-80 md:mr-3" type="email" name="EMAIL" placeholder="Your email address">
-
-        <button type="submit" class="w-full p-3 text-white border rounded shadow-md border-vivid-blue-600 bg-vivid-blue-600 md:w-32">Join me</button>
-        
-        <!-- honeypot field -->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true">
-            <input type="text" name="b_4a6f5a90ad20717ddb43bbf46_1714af77ee" tabindex="-1" value="">
-        </div>
-    </form>
-    <!--End Mailchimp Signup Form -->
-</div>
+{% include 'email-signup.html' %}
 
 <p class="pb-2 mt-16 font-medium text-gray-700 border-b border-vivid-blue-600">My Latest Work</p>
 <ul class="mt-6">

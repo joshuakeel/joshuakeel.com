@@ -3,7 +3,7 @@ title: Drop Your Burdens and Rest in the Flow of Life
 date: 2018-07-09T10:00:05+00:00
 ---
 <figure class="wp-block-image">
-	<img src="https://joshuakeel.com/wp-content/uploads/2018/07/people-in-hong-kong-e1530967527557.jpg" alt="" class="wp-image-313" /> <figcaption>Photo by [Annie Spratt﻿][1]</figcaption> </figure> 
+	<img src="https://joshuakeel.com/wp-content/uploads/2018/07/people-in-hong-kong-e1530967527557.jpg" alt="" class="wp-image-313" /> <figcaption>Photo by <a href="https://unsplash.com/photos/s4OR_-f4e08?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a></figcaption> </figure> 
 
 <blockquote class="wp-block-quote">
   <p>
@@ -26,5 +26,3 @@ That wasn&#8217;t enough for me. After years of struggle, prayers, and self–to
 I felt tremendous relief, but it didn&#8217;t last long. I was more OK with myself, but still not truly at peace, not really home. I&#8217;m driven by a sense of dis–ease with life, a kind of unrest that rarely quiets down. I find, more and more, that what quiets my soul is to rest in the now. When I believe my thoughts, when I am thinking about past and future, when I think about my self–concept, my plans and hopes for myself, I often am fearful. But when I sink deeply into the bodily sensations, the sounds, the sights, the colors, the voices, the movements of light that occupy my waking hours, there is no lack. There is no need to seek peace, for I am peace.
 
 I am not a person, carrying around problems, wishing things were different, with a desperate longing for wholeness. I am everything. I am nothing. I don&#8217;t need to exist, as a thought. I can simply be, as an endless sea, active yet calm. Fully awake, fully alive, I become wisdom itself, an intelligent life force, constantly morphing, taking the shape of friends and couches, flowing by in an endless stream. And here, in the flow of life, there is peace. It&#8217;s nowhere else but here.
-
- [1]: https://unsplash.com/photos/s4OR_-f4e08?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText

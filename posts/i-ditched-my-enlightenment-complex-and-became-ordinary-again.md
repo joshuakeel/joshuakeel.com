@@ -2,7 +2,7 @@
 title: I Ditched My Enlightenment Complex and Became Ordinary Again
 date: 2019-08-23T00:25:51+00:00
 ---
-<figure class="wp-block-image alignwide"><img src="https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-1024x683.jpg" alt="" class="wp-image-408" srcset="https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-1024x683.jpg 1024w, https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-300x200.jpg 300w, https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-768x512.jpg 768w, https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-1088x725.jpg 1088w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Photo by [Elijah Hiett][1]</figcaption></figure> 
+<figure class="wp-block-image alignwide"><img src="https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-1024x683.jpg" alt="" class="wp-image-408" srcset="https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-1024x683.jpg 1024w, https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-300x200.jpg 300w, https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-768x512.jpg 768w, https://joshuakeel.com/wp-content/uploads/2019/08/elijah-hiett-wW0BUXTTUmU-unsplash.b58b9a2d1ba74eecabee534a8a4a36d8-1088x725.jpg 1088w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Photo by <a href="https://unsplash.com/@elijahdhiett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elijah Hiett</a></figcaption></figure> 
 
 I wasn’t always spiritual. I grew up as a committed evangelical Christian, but not a particularly _spiritual_ one. I was more interested in theology than mysticism. When I deconverted and embraced atheism in my mid-20s, I disavowed all forms of religious expression and spirituality.
 
@@ -56,5 +56,4 @@ But in the end, we’re all just human—trying our best to make the most of our
 
 I hope you will.
 
- [1]: https://unsplash.com/@elijahdhiett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
  [2]: https://www.amazon.com/Ten-Thousand-Things-Robert-Saltzman/dp/1999353501/ref=sr_1_1?keywords=robert+saltzman&qid=1565859506&s=gateway&sr=8-1
