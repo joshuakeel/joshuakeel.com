@@ -1,7 +1,16 @@
 const { DateTime } = require('luxon');
 const htmlmin = require('html-minifier');
+const markdownIt = require('markdown-it');
+const markdownItFootnote = require('markdown-it-footnote');
 
 module.exports = function(eleventyConfig) {
+
+    let markdownItOptions = {
+        html: true
+    };
+
+    let markdownLib = markdownIt(markdownItOptions).use(markdownItFootnote);
+    eleventyConfig.setLibrary('md', markdownLib);
 
     eleventyConfig.addFilter('readableDate', date => {
         return DateTime.fromJSDate(new Date(date), { zone: 'utc' }).toLocaleString(DateTime.DATE_FULL);

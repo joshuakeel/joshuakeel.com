@@ -51,10 +51,6 @@ article h4 {
     @apply mb-2;
 }
 
-article img {
-    @apply mb-8;
-}
-
 @screen md {
     article h2 {
         @apply text-3xl;
@@ -71,8 +67,26 @@ article ul {
     @apply mb-8;
 }
 
-article ul li {
-    @apply mb-2;
+article li {
+    @apply mb-3;
+}
+
+article ol {
+    @apply list-decimal;
+    @apply ml-8;
+    @apply mb-8;
+}
+
+article img {
+    @apply mb-8;
+}
+
+figure img {
+    @apply mb-0;
+}
+
+figure {
+    @apply mb-8;
 }
 
 figcaption {
@@ -80,25 +94,43 @@ figcaption {
     @apply text-base;
     @apply font-sans;
     @apply text-center;
-    @apply mb-6;
+    @apply mt-2;
+}
+
+figcaption a {
+    @apply border-gray-400;
+    @apply border-b;
+}
+
+figcaption a:hover {
+    @apply border-vivid-blue-600;
 }
 
 blockquote {
-    @apply ml-16;
+    @apply ml-8;
     @apply relative;
 }
 
 blockquote:before {
-    content: open-quote;
-    @apply -ml-16;
-    @apply text-2xl;
+    content: '“';
+    @apply text-6xl;
+    @apply -ml-8;
+    @apply -mt-1;
     @apply absolute;
     @apply leading-none;
 }
 
 @screen md {
+    blockquote {
+        @apply ml-16;
+    }
+}
+
+@screen md {
     blockquote:before {
-        font-size: 8rem;
+        @apply text-huge;
+        @apply -ml-16;
+        @apply -mt-4;
     }
 }
 

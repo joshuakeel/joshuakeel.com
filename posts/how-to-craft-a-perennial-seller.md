@@ -2,7 +2,7 @@
 title: How to Craft a Perennial Seller
 date: 2019-10-09T12:04:17+00:00
 ---
-<figure class="wp-block-image alignfull"><img src="https://i2.wp.com/joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash.jpg?fit=739%2C493&ssl=1" alt="" class="wp-image-432" srcset="https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash.jpg 6000w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-300x200.jpg 300w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-768x512.jpg 768w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-1024x683.jpg 1024w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-1088x725.jpg 1088w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption>Photo by [Malcolm Lightbody][1].</figcaption></figure> 
+<figure class="wp-block-image alignfull"><img src="https://i2.wp.com/joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash.jpg?fit=739%2C493&ssl=1" alt="" class="wp-image-432" srcset="https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash.jpg 6000w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-300x200.jpg 300w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-768x512.jpg 768w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-1024x683.jpg 1024w, https://joshuakeel.com/wp-content/uploads/2019/10/malcolm-lightbody-gPRvTP0sZ2M-unsplash-1088x725.jpg 1088w" sizes="(max-width: 6000px) 100vw, 6000px" /><figcaption>Photo by <a href="https://unsplash.com/@mlightbody?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Malcolm Lightbody</a>.</figcaption></figure> 
 
 I’ve been following Ryan Holiday for a while. I get his book recommendations newsletter, and I read a lot of the articles he posts to Medium, Thought Catalog, and his own blog. He’s a great writer, and we share a lot of values, judging by the titles of his books: _[Ego is the Enemy][2]_, _[The Obstacle is the Way][3]_ and _[Stillness is the Key][4]_.
 
@@ -26,7 +26,7 @@ Without a great product, you don’t have anything to market. You focus first on
 
 Before you even start working on your project, figure out who it will be for. Why does someone need this thing you’re making? What is it going to do for them?
 
-Ryan asks us to fill in the blanks as we think about our project. “This is a \_____ that does __\_\\_\_. This helps people \_\_\___.” To fill these out, you’re forced to think through what exactly it is you’re trying to accomplish with your work.
+Ryan asks us to fill in the blanks as we think about our project. “This is a _____ that does _____. This helps people _____.” To fill these out, you’re forced to think through what exactly it is you’re trying to accomplish with your work.
 
 This is where you have to develop some empathy. Are you doing your art primarily for yourself, or do you want to move someone to think or act differently, to feel inspired or understood? When people are interacting with your work, they’re having an experience. What kind of experience do you want it to be?
 

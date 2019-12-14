@@ -2,15 +2,10 @@
 title: What Are You Looking For?
 date: 2018-07-29T12:02:21+00:00
 ---
-_Longing for home
-  
-Searching for peace
-  
-Struggling for meaning
-  
-In the disease
-  
-_ 
+_Longing for home  
+Searching for peace  
+Struggling for meaning  
+In the disease_
 
 They say everyone has a natural koan, a question that bubbles up from somewhere deep inside, desperately seeking an answer. It’s the question that drives you, that motivates many of your behaviors and patterns of thought. It’s what you’re looking for, what you want more than anything. My natural koan is expressed in the lyrics above, which I wrote some years ago: how can I find peace in this life?
 

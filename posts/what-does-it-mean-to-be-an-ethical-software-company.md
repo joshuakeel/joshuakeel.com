@@ -54,7 +54,7 @@ Yet so often, success for a company means profits for the shareholders, while em
 
 Profit isn’t bad, but when that profit is hoarded and used to satisfy the greed of the already spectacularly wealthy, profit isn’t serving the public good. A society in which the well-being of less privileged individuals is protected is one in which we all have a chance to flourish. We all benefit from our neighbors, coworkers and acquaintances living meaningful and fulfilling lives.
 
-More corporations need to adopt the aims of B (or benefit) corporations, whose stated legal goals are to have a “positive impact on society, workers, the community and the environment in addition to profit.”<sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>
+More corporations need to adopt the aims of B (or benefit) corporations, whose stated legal goals are to have a “positive impact on society, workers, the community and the environment in addition to profit.”[^1]
 
 Community and environment should be valued corporate stakeholders. In their quest for profit, too many companies victimize both the earth and their local communities. Many companies are so bottom-line oriented that they frankly don’t care what impact they’re having on those around them. Their implicit values are selfishness and self-preservation, not making their communities better, or taking care of the planet.
 
@@ -84,9 +84,7 @@ Our technological future is not written in stone. The actions we individually an
 
 As always, I’d love to hear what you think.
 
-<li id="fn1">
-  <a href="https://en.wikipedia.org/wiki/Benefit_corporation">https://en.wikipedia.org/wiki/Benefit_corporation</a> <a href="#ffn1">↩</a>
-</li>
+[^1]:	[Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation)
 
  [1]: https://usefathom.com/
  [2]: https://humanetech.com/

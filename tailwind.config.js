@@ -23,7 +23,8 @@ module.exports = {
       },
       fontSize: {
         'sm': '0.8rem',
-        '2xl-bigger': '2.5rem'
+        '2xl-bigger': '2.5rem',
+        'huge': '8rem'
       },
       maxWidth: {
         '2xl': '42.5rem'

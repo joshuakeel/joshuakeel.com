@@ -62,8 +62,8 @@ date: 2018-05-19T11:42:50+00:00
   <span class="s1">In that spirit, G. K. Chesterton artfully captures the ordinary wonder of life in his poem <i>Evening</i>, which I leave with you as my own benediction:</span>
 </p>
 
-<pre class="p2"><span class="s1">Here dies another day</span>
-<span class="s1">During which I have had eyes, ears, hands</span>
-<span class="s1">And the great world round me;</span>
-<span class="s1">And with tomorrow begins another.</span>
-<span class="s1">Why am I allowed two?</span></pre>
+> Here dies another day  
+During which I have had eyes, ears, hands  
+And the great world round me;  
+And with tomorrow begins another.  
+Why am I allowed two?
