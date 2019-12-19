@@ -18,6 +18,8 @@ sections:
   create: documents
   match: "**/*"
   exclude: pages.json
+  templates:
+  - page
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
