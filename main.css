@@ -34,14 +34,14 @@ article {
 }
 
 article h2 {
-    @apply text-2xl;
+    @apply text-xl;
     @apply font-bold;
     @apply font-serif-title;
     @apply mb-2;
 }
 
-article h4 {
-    @apply text-xl;
+article h3, article h4 {
+    @apply text-lg;
     @apply font-bold;
     @apply font-serif-title;
     @apply mb-2;
@@ -50,6 +50,14 @@ article h4 {
 @screen md {
     article h2 {
         @apply text-3xl;
+    }
+
+    article h3 {
+        @apply text-2xl;
+    }
+
+    article h4 {
+        @apply text-xl;
     }
 }
 
