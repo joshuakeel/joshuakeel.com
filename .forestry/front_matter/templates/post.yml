@@ -10,3 +10,5 @@ fields:
   name: date
   label: date
   default: now
+pages:
+- posts/don-t-drink-the-water-it-s-a-cesspool.md
