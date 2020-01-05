@@ -1,3 +1,9 @@
+{% if page.url === '/' %}
+  {% set pageTitle = title %}
+{% else %}
+  {% set pageTitle = title + ' - ' + 'Joshua Keel' %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +14,7 @@
     <!-- Facebook Open Graph -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Joshua Keel" />
+    <meta property="og:title" content="{{ pageTitle }}" />
     <meta property="og:description" content="I write weekly, read daily, think deeply and make things." />
     <meta property="og:url" content="https://joshuakeel.com{{ page.url }}" />
     <meta property="og:site_name" content="Joshua Keel" />
@@ -21,7 +27,7 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Joshua Keel" />
+    <meta name="twitter:title" content="{{ pageTitle }}" />
     <meta name="twitter:site" content="@joshuakeel" />
     <meta name="twitter:image" content="https://joshuakeel.com/assets/me.jpeg" />
     <!-- End Twitter Card -->
@@ -33,7 +39,7 @@
     {% else %}
       <link rel="preload" href="/assets/merriweather-bold-webfont.woff2" as="font" type="font/woff2" crossorigin>
     {% endif %}
-    <title>Joshua Keel</title>
+    <title>{{ pageTitle }}</title>
   </head>
   <body class="max-w-4xl px-6 font-sans text-lg text-gray-900 md:text-xl md:mx-auto">
     <header class="flex flex-col items-baseline mt-10 text-gray-700 md:flex-row">
