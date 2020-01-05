@@ -3,7 +3,9 @@ date: 2020-01-05T16:49:09-05:00
 title: Courage and Nausea
 
 ---
-> “I just wanted to remind you that courage sometimes looks like nausea. And it's ok. That's normal. Just because there are tears and vomit doesn't mean you’re doing it wrong. You might be doing exactly the thing you need to be doing to get where you want to go.” - Jillian Johnsrud
+> “I just wanted to remind you that courage sometimes looks like nausea. And it's ok. That's normal. Just because there are tears and vomit doesn't mean you’re doing it wrong. You might be doing exactly the thing you need to be doing to get where you want to go.”  
+>   
+> \- Jillian Johnsrud
 
 It has taken me years to learn that art is hard. Anything worth doing tends to be _hard_—romantic relationships, starting a business, supporting a loved one through loss and grief—all incredibly tough at times. When you see someone who is rocking out and things look easy for them, just remember that their life probably isn’t easy _at all_.
 
