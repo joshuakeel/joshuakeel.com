@@ -11,4 +11,5 @@ fields:
   label: date
   default: now
 pages:
+- posts/courage-and-nausea.md
 - posts/dont-drink-the-water-its-a-cesspool.md
