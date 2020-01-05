@@ -1,4 +1,8 @@
-{% set pageTitle = title + ' - ' + 'Joshua Keel' %}
+{% if page.url === '/' %}
+  {% set pageTitle = title %}
+{% else %}
+  {% set pageTitle = title + ' - ' + 'Joshua Keel' %}
+{% endif %}
 
 <!DOCTYPE html>
 <html lang="en">
