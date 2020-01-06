@@ -1,7 +1,7 @@
 ---
 date: 2020-01-05T16:49:09-05:00
 title: Courage and Nausea
-
+metaDesc: Just because you have doubts doesn't mean you should quit.
 ---
 > I just wanted to remind you that courage sometimes looks like nausea. And it's ok. That's normal. Just because there are tears and vomit doesn't mean you’re doing it wrong. You might be doing exactly the thing you need to be doing to get where you want to go.
 >
