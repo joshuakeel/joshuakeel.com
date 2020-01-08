@@ -18,4 +18,4 @@ So I say all of that to say this. I&#8217;m taking a step back. I&#8217;m taking
 
 And what a sweet relief it is.
 
- [1]: https://joshuakeel.com/2014/07/27/keeping-your-word/
+ [1]: https://joshuakeel.com/keeping-your-word/

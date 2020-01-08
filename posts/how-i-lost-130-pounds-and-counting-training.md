@@ -20,5 +20,5 @@ I&#8217;ve learned my lesson now, and I am committed to losing the last 10-20 lb
 
 There&#8217;s a lot more I could say about the mindset, nutrition and exercise that got me from 330+ lbs. to 201 lbs. as of this morning, and I&#8217;m sure I will be writing more about all this in future. For now, I hope sharing my story was helpful to someone out there, and if you have any questions or suggestions for topics to write about, I&#8217;d love to hear them.
 
- [1]: http://www.amazon.com/The-Happy-Body-Nutrition-Relaxation/dp/098240381X/ref=sr_1_1?ie=UTF8&qid=1406804103&sr=8-1&keywords=the+happy+body
- [2]: http://kinobody.com
+ [1]: https://www.amazon.com/The-Happy-Body-Nutrition-Relaxation/dp/098240381X/ref=sr_1_1?ie=UTF8&qid=1406804103&sr=8-1&keywords=the+happy+body
+ [2]: https://kinobody.com/

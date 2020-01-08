@@ -24,5 +24,5 @@ If Intermittent Fasting works as well for me as it has worked for so many others
 
 Tomorrow I will talk a little about what my first day was like, and from there I will post weekly progress updates. I&#8217;ve never heard people speak much about what it&#8217;s like to go through the adjustment process and start IF regularly, so maybe by sharing my experiences I can help someone else make the transition. Or not. We&#8217;ll have to see what tomorrow holds.
 
- [1]: https://joshuakeel.com/2014/07/31/how-i-lost-130-pounds-and-counting-nutrition/
- [2]: http://www.leangains.com/2010/04/leangains-guide.html
+ [1]: https://joshuakeel.com/how-i-lost-130-pounds-and-counting-nutrition/
+ [2]: https://leangains.com/the-leangains-guide/

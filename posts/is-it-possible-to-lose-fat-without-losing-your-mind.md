@@ -22,6 +22,6 @@ You don’t have to count all the things to lose fat. Here are some of the resou
 What do you think about tracking? How has it helped or harmed you? What do you think about these more intuitive, habit-based weight loss approaches?
 
  [1]: https://www.amazon.com/dp/1250004047/ref=rdr_ext_sb_ti_hist_1 "Intuitive Eating: A Revolutionary Program That Works"
- [2]: https://www.losestubbornfat.com/ "Lose Stubborn Fat"
+ [2]: https://losestubbornfat.com/ "Lose Stubborn Fat"
  [3]: http://georgiefear.com/ "Georgie Fear"
  [4]: https://www.amazon.com/Lean-Habits-Lifelong-Weight-Loss/dp/1624141129/ref=as_sl_pc_tf_til?tag=askgeo-20&linkCode=w00&linkId=b066e8d7c81ef14279ba4f6eb84ec086&creativeASIN=1624141129 "Lean Habits for Lifelong Weight Loss"

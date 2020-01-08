@@ -34,4 +34,4 @@ This weight loss project started in September of 2012 and is still ongoing. Thes
 
 I hope maybe some of this has been helpful for anyone out there struggling with their health and fitness. In my next post, I will talk about the exercise side of the game: what&#8217;s effective, what&#8217;s too much, and how not to run yourself into the ground. Stay tuned.
 
- [1]: http://www.leangains.com/2010/04/leangains-guide.html
+ [1]: https://leangains.com/the-leangains-guide/

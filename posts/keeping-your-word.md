@@ -34,4 +34,4 @@ Willingness and acceptance allowed me to start keeping my word to myself again. 
 
 If you&#8217;re struggling with keeping your word to yourself in some aspect of your life (and really, aren&#8217;t we all?) I encourage you to try to use these concepts. Maybe even get yourself a copy of the ACT book I mentioned. It could open the door to new ways of thinking, more workable attitudes and ways of dealing with troubling thoughts and emotions. And remember to keep cultivating willingness for the journey.
 
- [1]: http://www.amazon.com/Get-Your-Mind-Into-Life/dp/1572244259/ref=sr_1_1_bnp_1_pap?ie=UTF8&qid=1406474894&sr=8-1&keywords=get+out+of+your+mind+and+into+your+life
+ [1]: https://www.amazon.com/Get-Your-Mind-Into-Life/dp/1572244259/ref=sr_1_1_bnp_1_pap?ie=UTF8&qid=1406474894&sr=8-1&keywords=get+out+of+your+mind+and+into+your+life

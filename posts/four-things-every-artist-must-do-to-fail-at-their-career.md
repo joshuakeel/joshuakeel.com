@@ -51,5 +51,5 @@ Seriously, though, expect to put in at least one to five years of hard work whos
 But whatever you do, don’t take my advice. I’m a failed artist.
 
  [1]: https://joshuakeel.bandcamp.com/
- [2]: http://zenhabits.net
+ [2]: https://zenhabits.net/
  [3]: https://zenhabits.net/dream-come-true-ive-got-a-book-deal/

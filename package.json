@@ -4,7 +4,8 @@
   "description": "Personal website of Joshua Keel.",
   "main": "index.js",
   "dependencies": {
-    "markdown-it-footnote": "^3.0.2"
+    "markdown-it-footnote": "^3.0.2",
+    "tap-spot": "^1.1.1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
@@ -22,7 +23,9 @@
     "postcss": "postcss main.css -o _site/main-compiled.css --verbose",
     "postcss:watch": "postcss main.css -o _site/main-compiled.css --watch --verbose",
     "start": "concurrently \"eleventy --serve\" \"npm run postcss:watch\"",
-    "build": "rm -rf _site && eleventy && NODE_ENV=production npm run postcss"
+    "build": "rm -rf _site && eleventy && NODE_ENV=production npm run postcss",
+    "links-external": "hyperlink -r --root _site --canonicalroot https://joshuakeel.com/ _site/*.html | tap-spot",
+    "links-internal": "hyperlink -ri --root _site --canonicalroot https://joshuakeel.com/ _site/*.html | tap-spot"
   },
   "keywords": [],
   "author": "Joshua Keel",

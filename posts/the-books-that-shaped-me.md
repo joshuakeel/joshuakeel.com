@@ -47,7 +47,7 @@ date: 2018-05-10T12:01:49+00:00
 </p>
 
 <p class="p3">
-  <span class="s1"><b><a href="https://www.amazon.com/Get-Your-Mind-Into-Life-ebook/dp/B0054M063A/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1525951533&sr=1-1&keywords=get+out+of+your+mind+and+into+your+life">Get Out of Your Mind and Into Your Life</a> &#8211; Steven C. Hayes</b></span>
+  <span class="s1"><b><a href="https://www.amazon.com/Get-Your-Mind-Into-Life/dp/1572244259/ref=sr_1_1_bnp_1_pap?ie=UTF8&qid=1406474894&sr=8-1&keywords=get+out+of+your+mind+and+into+your+life">Get Out of Your Mind and Into Your Life</a> &#8211; Steven C. Hayes</b></span>
 </p>
 
 <p class="p2">

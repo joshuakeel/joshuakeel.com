@@ -36,6 +36,6 @@ Failure is also a good time to re–evaluate the system we’ve set up. Maybe it
 
 Often our habits and systems are fine, we just aren’t sticking to them. And that’s where determination comes in. Grit. We get the shit kicked out of us, and we get up and start again. Succeeding at long–term goals requires a level of tenacity that few people realize. We want it to be easy. But doing anything worthwhile is not easy. We look at the long days ahead, and we want to give up. So I would simply say, again, don’t look at what lies ahead. Tomorrow will take care of itself. Focus on consistency with your habits today, and success is inevitable. It’s not easy, but it is simple.
 
- [1]: https://joshuakeel.com/2018/05/04/ive-been-losing-weight-for-over-a-decade-im-still-not-done-yet/
- [2]: https://joshuakeel.com/2014/07/31/how-i-lost-130-pounds-and-counting-nutrition/
+ [1]: https://joshuakeel.com/ive-been-losing-weight-for-over-a-decade-im-still-not-done-yet/
+ [2]: https://joshuakeel.com/how-i-lost-130-pounds-and-counting-nutrition/
  [3]: https://www.amazon.com/Small-Step-Change-Your-Life-ebook/dp/B00GU2RHCG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1529926537&sr=8-1
