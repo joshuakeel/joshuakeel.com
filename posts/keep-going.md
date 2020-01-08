@@ -72,6 +72,6 @@ Please do yourself a favor and read this [fascinating, eye-opening and moving bo
  [4]: https://wegrowmedia.com/how-sending-a-newsletter-to-9-people-launched-my-career/
  [5]: https://www.cjr.org/first_person/aaron-calvin-viral-story-tweets.php "Twitter hates me. The Des Moines Register fired me. Here’s what really happened."
  [6]: https://blog.thenounproject.com/the-redefining-women-icon-collection-e18e1c4229c7
- [7]: https://www.karinainkster.com/single-post/2019/10/31/My-experience-with-debilitating-anxiety-and-the-8-things-I-did-to-overcome-it
+ [7]: https://www.karinainkster.com/post/2019/10/31/my-experience-with-debilitating-anxiety-and-the-8-things-i-did-to-overcome-it
  [8]: https://austinkleon.com/2019/11/05/start-before-you-think-youre-ready/
  [9]: https://www.indiebound.org/book/9781250237231?aff=macmillan
