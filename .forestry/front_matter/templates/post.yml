@@ -5,11 +5,17 @@ display_field: title
 fields:
 - type: text
   name: title
-  label: title
+  label: Page Title
 - type: datetime
   name: date
-  label: date
   default: now
+  label: Publish Date
+- name: metaDesc
+  type: text
+  config:
+    required: false
+  label: Meta Description
+  description: SEO description.
 pages:
 - posts/courage-and-nausea.md
 - posts/dont-drink-the-water-its-a-cesspool.md
