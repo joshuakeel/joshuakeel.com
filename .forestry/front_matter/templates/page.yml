@@ -5,7 +5,13 @@ display_field: title
 fields:
 - type: text
   name: title
-  label: title
+  label: Page Title
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink URL
+- name: metaDesc
+  type: text
+  config:
+    required: false
+  label: Meta Description
+  description: SEO description.
