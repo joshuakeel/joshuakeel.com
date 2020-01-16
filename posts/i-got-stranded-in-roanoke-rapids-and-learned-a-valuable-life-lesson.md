@@ -1,6 +1,7 @@
 ---
 date: 2020-01-12T13:49:04-05:00
 title: I Got Stranded in Roanoke Rapids—and Learned a Valuable Life Lesson
+metaDesc: That time I got shook and stranded in Roanoke Rapids with no money.
 
 ---
 I was on my way home to Northern Virginia, just outside DC. Or at least, I had been last night. Now, I was stranded off Interstate 95 at exit 173—a little town called Roanoke Rapids, North Carolina, close to the Virginia border.
