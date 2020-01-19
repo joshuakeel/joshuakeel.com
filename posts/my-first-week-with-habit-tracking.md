@@ -13,13 +13,13 @@ Things changed as we prepared to move to a new house in July, and the most I’v
 
 I had been thinking about how to change this, so when I made my Christmas wish list last year, James Clear’s _Clear Habit Journal_ was on it. My incredibly generous in-laws were kind enough to give it to me.
 
-![](/assets/Clear_Habit_Journal.jpeg)
+![The Clear Habit Journal](/assets/Clear_Habit_Journal.jpeg)
 
 The habit tracker was the feature I was most looking forward to. I could, of course, have used Excel, or an iPhone app, but I thought a physical journal might make it easier for me to stick with, and give me one less reason to pick up my phone.
 
 My habit tracker sits on my bedside table. It’s one of the first things I see when I wake up and when I get ready for bed.
 
-![](/assets/habit_tracker.jpeg)
+![My habit tracker sheet](/assets/habit_tracker.jpeg)
 
 Placing my tracker in a highly visible location helps remind me of my commitments. Sometimes I even check off habits as I do them, visiting the sheet for the satisfaction of placing an X in the box for each successful completion.
 
