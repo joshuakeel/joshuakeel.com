@@ -17,6 +17,7 @@ fields:
   label: Meta Description
   description: SEO description.
 pages:
+- posts/8-great-reasons-not-to-count-calories.md
 - posts/courage-and-nausea.md
 - posts/dont-drink-the-water-its-a-cesspool.md
 - posts/habit-tracking-a-simple-way-to-change-your-life.md
