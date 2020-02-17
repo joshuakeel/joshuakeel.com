@@ -16,6 +16,12 @@ fields:
     required: false
   label: Meta Description
   description: SEO description.
+- name: metaImage
+  type: file
+  config:
+    maxSize: 250
+  label: Meta Image
+  description: Twitter card and Open Graph image for SEO.
 pages:
 - posts/8-great-reasons-not-to-count-calories.md
 - posts/courage-and-nausea.md
