@@ -24,6 +24,7 @@ fields:
   description: Twitter card and Open Graph image for SEO.
 pages:
 - posts/8-great-reasons-not-to-count-calories.md
+- posts/a-letter-to-my-friends-in-this-time-of-trouble.md
 - posts/courage-and-nausea.md
 - posts/dont-drink-the-water-its-a-cesspool.md
 - posts/flow-happiness.md
