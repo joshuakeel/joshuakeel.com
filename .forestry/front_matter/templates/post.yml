@@ -23,6 +23,7 @@ fields:
   label: Meta Image
   description: Twitter card and Open Graph image for SEO.
 pages:
+- posts/34-years-of-change.md
 - posts/8-great-reasons-not-to-count-calories.md
 - posts/a-letter-to-my-friends-in-this-time-of-trouble.md
 - posts/courage-and-nausea.md
