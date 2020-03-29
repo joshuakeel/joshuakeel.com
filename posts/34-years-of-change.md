@@ -5,7 +5,7 @@ metaDesc: Wry musings on 34 years of a human life.
 metaImage: ''
 
 ---
-Last week I celebrated by 34th birthday. Oddly, I feel older, as if I should be on the back side of my 30s instead of the front. My friend Jeff always said that you don’t really figure life out until your 30s.
+Last week I celebrated my 34th birthday. Oddly, I feel older, as if I should be on the back side of my 30s instead of the front. My friend Jeff always said that you don’t really figure life out until your 30s.
 
 Your 20s just suck. You’re confused; you’re stupid; you face round after round of inner tumult, seemingly without end. Then, blessedly, when you hit 30, you emerge into a calmer, peaceful world, where your psyche has matured enough to settle down for two seconds and be less like a wild-ass donkey.
 
