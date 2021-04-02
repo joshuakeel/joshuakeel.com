@@ -30,7 +30,7 @@ models:
     type: page
     label: Post
     # Post pages are loaded from this folder (relative to pagesDir)
-    folder: null
+    folder: .
     # Let Stackbit know how to compute URL paths of your pages
     urlPath: "/{slug}"
     # Pages created in Stackbit will be stored in the following location
@@ -44,3 +44,9 @@ models:
         name: date
       - type: text
         name: description
+      - type: list
+        name: tags
+      - type: text
+        name: metaDesc
+      - type: text
+        name: metaImage
