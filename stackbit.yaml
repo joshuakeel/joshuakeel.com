@@ -1,0 +1,46 @@
+stackbitVersion: ~0.3.0
+
+# The name of the static-site-generator
+ssgName: eleventy
+
+# Use node version 12
+nodeVersion: 12
+
+# The site has no data files (json, yaml, .etc)
+dataDir: null
+
+# The folder with markdown files representing your site pages
+pagesDir: posts
+
+# This site uses "relative" assets pattern. That is, asset files are referenced
+# from content files using relative paths
+assets:
+  # asset are referenced using relative paths
+  referenceType: relative
+  # the common ancestor folder that contains all site images
+  # is the root '' folder
+  assetsDir: "assets"
+  # uploaded images will be stored in 'src/images'
+  uploadDir: assets
+
+# Models describe the content structure of your site pages and data
+models:
+  # The "post" model describes the post pages
+  post:
+    type: page
+    label: Post
+    # Post pages are loaded from this folder (relative to pagesDir)
+    folder: null
+    # Let Stackbit know how to compute URL paths of your pages
+    urlPath: "/{slug}"
+    # Pages created in Stackbit will be stored in the following location
+    # (relative to pagesDir)
+    filePath: "{slug}/index.md"
+    # The fields of the post page
+    fields:
+      - type: string
+        name: title
+      - type: date
+        name: date
+      - type: text
+        name: description
