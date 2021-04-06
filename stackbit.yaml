@@ -6,6 +6,8 @@ ssgName: eleventy
 # Use node version 12
 nodeVersion: 12
 
+buildCommand: npm run build
+
 # The site has no data files (json, yaml, .etc)
 dataDir: null
 
