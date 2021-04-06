@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Seneca on the Shortness of Life
 date: '2021-04-06'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
