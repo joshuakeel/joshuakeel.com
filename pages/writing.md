@@ -4,7 +4,7 @@ permalink: writing/index.html
 ---
 I post a new article each week. These are the archives of everything I've written since 2014.
 
-{%- for post in collections.post | reverse -%}
+{%- for post in collections.allPosts | reverse -%}
     <li class="flex flex-col mt-8">
         <span class="font-sans text-base text-gray-700">{{ post.date | readableDate }}</span>
         <h2 class="mb-0 text-lg md:text-xl">

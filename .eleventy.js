@@ -20,9 +20,13 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addCollection('mostRecentPosts', collection => {
-        return collection.getFilteredByTag('post')
+        return collection.getFilteredByGlob('posts/*.md')
             .reverse()
             .slice(0, 3);
+    });
+
+    eleventyConfig.addCollection('allPosts', collection => {
+        return collection.getFilteredByGlob('posts/*.md')
     });
 
     eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
