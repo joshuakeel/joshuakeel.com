@@ -2,9 +2,9 @@
 date: 2020-04-19T14:31:31-04:00
 title: Sh*tty First Drafts
 metaDesc: Beyond the self-censoring monkey mind lies the true artist's path.
-metaImage: ''
-
+metaImage: ""
 ---
+
 Many moons ago, staring out a window, dreaming of becoming an artist, I imagined it would be easy. I thought that artists went into their studios or author huts or studies, and hours later, emerged victorious, having communed with the muse in an effortless flow.
 
 Real art, like real life, is nothing like that. At least not most of the time. There are those rare occasions, sure, when the words come tumbling forth, and they are perfect. But the daily life of an artist is more like digging a ditch. It’s a dirty slog through self-doubt. You’re never sure if today, inexplicably, the words won’t come.
