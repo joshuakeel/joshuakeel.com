@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
     let markdownLib = markdownIt(markdownItOptions)
         .disable('code')
         .use(markdownItFootnote);
-        
+
     eleventyConfig.setLibrary('md', markdownLib);
 
     eleventyConfig.addFilter('readableDate', date => {
