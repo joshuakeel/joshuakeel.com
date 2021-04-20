@@ -2,8 +2,9 @@
 title: Writing
 permalink: writing/index.html
 ---
-I post a new article each week. These are the archives of everything I've written since 2014.
+I post new articles as I write them. I focus on quality rather than frequency. These are the archives of everything I've written since 2014.
 
+<ol class="ml-0 list-none">
 {%- for post in collections.allPosts | reverse -%}
     <li class="flex flex-col mt-8">
         <span class="font-sans text-base text-gray-700">{{ post.date | readableDate }}</span>
@@ -12,3 +13,4 @@ I post a new article each week. These are the archives of everything I've writte
         </h2>
     </li>
 {%- endfor -%}
+</ol>

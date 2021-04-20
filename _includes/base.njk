@@ -4,7 +4,7 @@
   {% set pageTitle = title + ' - ' + 'Joshua Keel' %}
 {% endif %}
 
-{% set pageDesc = 'I write weekly, read daily, think deeply and make things.' %}
+{% set pageDesc = 'Human. Software developer. Writer.' %}
 
 {% if metaDesc %}
   {% set pageDesc = metaDesc %}
@@ -59,6 +59,7 @@
       <h1 class="text-xl font-medium md:text-3xl md:font-normal"><a class="border-none hover:text-gray-700" href="/">Joshua Keel</a></h1>
         <nav class="mt-2 text-lg md:mt-0 md:text-xl md:ml-auto">
           <a href="/writing" class="mr-4 md:mr-8 {% if page.url === '/writing/' %} current-page {% else %} border-none {% endif %}">Writing</a>
+          <a href="/reading" class="mr-4 md:mr-8 {% if page.url === '/reading/' %} current-page {% else %} border-none {% endif %}">Reading</a>
           <a href="/about" class="mr-4 md:mr-8 {% if page.url === '/about/' %} current-page {% else %} border-none {% endif %}">About</a>
           <a href="/now" class="{% if page.url === '/now/' %} current-page {% else %} border-none {% endif %}">Now</a>
         </nav>
