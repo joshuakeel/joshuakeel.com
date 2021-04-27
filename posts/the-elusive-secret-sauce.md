@@ -6,8 +6,6 @@ metaDesc: You don't need more information. Stop looking for the secret sauce, an
 metaImage: ''
 
 ---
-# The elusive secret sauce
-
 Are you searching, friend? For that next brilliant idea? The breakthrough, the tidbit that will unlock some invisible door inside your head, that will really _fix_ your trouble, truly and always?
 
 I often am. I find myself with a little problem, say, a few extra pounds I’d like to lose. And then I start the Googling. I read articles. I listen to podcasts. I buy books on Amazon. I research, I scour—as if there’s some secret method, some trick, that will make everything _click_, that will make all the difference.
