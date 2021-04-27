@@ -4,7 +4,7 @@ permalink: reading/index.html
 ---
 <p>Books I've read (or listened to), updated each time I complete a book, or remember a book I've read in the past and add it.</p>
 
-<p>This page is relatively new, but will be frequently updated. Last update was April 19, 2021.</p>
+<p>This page is relatively new, but will be frequently updated. Last update was April 27, 2021.</p>
 
 <ol class="ml-0 list-none">
 {%- for book in books -%}
@@ -13,6 +13,7 @@ permalink: reading/index.html
         <div>By {{ book.author }}</div>
         <div>Date finished: {{ book.dateRead }}</div>
         <div>Rating: {{ book.rating }}/10</div>
+        <p class="mt-4">{{ book.comments }}</p>
     </li>
 {%- endfor -%}
 </ol>
