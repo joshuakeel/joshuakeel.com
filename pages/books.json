@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "Fuzzy Nation",
+      "author": "John Scalzi",
+      "dateRead": "04/27/2021",
+      "rating": 7,
+      "url": "https://www.audible.com/pd/Fuzzy-Nation-Audiobook/B004YXLK7G",
+      "comments": "John Scalzi is one of my favorite writers. This isn't necessarily his best, but it had those classic Scalzi twists. I found it quite enjoyable. Wil Wheaton's narration is on point, as always."
+    },
+    {
       "title": "A World Without Email",
       "author": "Cal Newport",
       "dateRead": "04/26/2021",
